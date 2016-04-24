@@ -1,0 +1,37 @@
+Login
+101 -> already logged in
+102 -> login successfull
+103 -> invalid credentials
+104 -> improper input
+
+API calls
+---------
+201 -> successfull 
+202 -> not logged in
+
+#wallstreet
+-----------
+301 -> registered for event
+302 -> already registered for event
+303 -> error
+304 -> improper values
+305 -> not enough in wallet
+306 -> Transaction could not be completed
+307 -> Transaction completed
+308 -> does not own stock
+309 -> does not own enough stock
+310 -> stock price unavailable
+
+
+API End Points - wallstreet
+---------------------------
+
+//myinfo
+
+
+
+#WALLSTREET STOCK MARKET TABLE
+t 		-> trade name
+c 		-> change 
+cp 		-> change percentage
+l_cur 	-> current listing
